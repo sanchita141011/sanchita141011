@@ -15,7 +15,6 @@ const sanchita = {
         DL: ["PyTorch", "TensorFlow", "Keras"],
         databases: ["MongoDB", "MySQL"]
     },
-    architecture: ["Cloud Native"],
     currentFocus: "Comptetive Programming using C++",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
